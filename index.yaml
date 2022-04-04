@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  helloworld:
+  hellow:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2019-12-07T17:55:16.095749+08:00"
+    created: "2022-04-05T00:05:45.623177+08:00"
     description: A Helm chart for Kubernetes
-    digest: 5909523dffde5b12f3c589bcea2d31a5785aa437dc8ea6ed147fcbf57b13a671
-    name: helloworld
+    digest: a749e28a2c564b19022c6f41f105fd50cc096d944e6fc46ae6b83a95e36e944d
+    name: hellow
     type: application
     urls:
-    - https://helloworlde.github.io/helm-chart/helloworld-0.1.0.tgz
+    - https://github.com/zhousam/helm-chart/hellow-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-07T17:55:16.092676+08:00"
+generated: "2022-04-05T00:05:45.621781+08:00"
